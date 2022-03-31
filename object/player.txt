@@ -1,3 +1,0 @@
-name: player
-size: 32 32
-img: player.png

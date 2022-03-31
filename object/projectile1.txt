@@ -1,3 +1,0 @@
-name: projectile1
-size: 16 16
-img: P1.png

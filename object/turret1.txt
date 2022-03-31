@@ -1,9 +1,0 @@
-name: turret1
-size: 100 100
-img: T1.png
-velocity: 20
-firerate: 1
-barrelno: 2
-barrelpos:
-projectile1 20 50
-projectile1 80 50

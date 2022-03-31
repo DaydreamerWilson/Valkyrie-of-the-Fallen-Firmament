@@ -1,9 +1,0 @@
-name: ship2
-size: 700 200
-img: S2.png
-level: 1
-health: 2000
-turretno: 2
-turretpos:
-turret1 100 500
-turret1 100 200

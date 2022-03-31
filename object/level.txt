@@ -1,4 +1,0 @@
-title.png
-menuback.png
-gameui.png
-gameback1.png
