@@ -1,0 +1,8 @@
+name: ship1
+size: 200 100
+img: S1.png
+level: 1
+health: 1000
+turretno: 1
+turretpos:
+turret2 50 100

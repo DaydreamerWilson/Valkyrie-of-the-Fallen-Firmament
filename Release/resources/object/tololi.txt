@@ -1,0 +1,7 @@
+2 2 1
+C player.txt
+S ship1.txt
+S ship2.txt
+T turret1.txt
+T turret2.txt
+P projectile1.txt
