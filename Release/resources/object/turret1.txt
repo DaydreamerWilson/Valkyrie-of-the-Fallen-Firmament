@@ -1,8 +1,8 @@
 name: turret1
 size: 100 100
 img: T1.png
-velocity: 5
-firerate: 5
+velocity: 8
+firerate: 60
 barrelno: 2
 barrelpos:
 projectile1 20 50
