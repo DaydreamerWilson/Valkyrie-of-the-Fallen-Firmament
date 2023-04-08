@@ -4,3 +4,5 @@ This is an upload of my secondary school computer project
 This will only work on Windows 7, 8 or 10
 
 To compile the codes you will need the SDL2 and SDL2-image libraries
+
+All sprites and resources used are original and free to be copied and used for non-commercial uses
